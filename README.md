@@ -35,7 +35,7 @@ Este repositório contém dois jogos simples da cobrinha escritos em Python:
 ### Opção 2: Correr Online (Sem Instalação)
 Se preferires correr o jogo sem instalar nada, usa o **[OnlineGDB](https://www.onlinegdb.com/online_python_compiler)**.
 
-## 🏅 Leaderboard (Versão Avançada)
+## 🏅 Leaderboard (Versão Advanced)
 - **O jogo regista o nome do jogador e o tempo total.**
 - **Apenas os 5 melhores tempos são guardados** no ficheiro `leaderboard.txt`.
 - O ficheiro **não é incluído no repositório** (`.gitignore` já está configurado para ignorá-lo).
@@ -46,5 +46,5 @@ Este projeto está sob a licença **MIT**. Sente-te à vontade para modificar e 
 ## 📧 Contribuições
 Se tiveres sugestões ou melhorias, abre um **Pull Request** ou entra em contacto!
 
-🐍 Divirtam-se a aprender python com o **Pytn**! 🚀
+🐍 Divirtam-se a aprender Python com o **Pytn**! 🚀
 
