@@ -6,6 +6,7 @@ Este repositório contém dois jogos simples da cobrinha escritos em Python:
 
 - **`pytn.py`**: Versão básica do jogo onde o jogador controla a cobra `Pytn` para apanhar uma única fruta.
 - **`pytn-advanced.py`**: Versão avançada onde o jogador precisa apanhar 3 frutas e o tempo de jogo é registado num **Leaderboard** local.
+- **`pytn-empty.py`**: Arquivo base para o **workshop**, onde os participantes devem completar a implementação do jogo seguindo dicas no código.
 
 ## 🚀 Como Jogar
 1. Certifica-te de que tens **Python 3** instalado.
@@ -40,6 +41,14 @@ Se preferires correr o jogo sem instalar nada, usa o **[OnlineGDB](https://www.o
 - **Apenas os 5 melhores tempos são guardados** no ficheiro `leaderboard.txt`.
 - O ficheiro **não é incluído no repositório** (`.gitignore` já está configurado para ignorá-lo).
 
+## 🏫 Workshop - `pytn-empty.py`
+Este ficheiro foi criado para ser utilizado no **workshop de Python**, onde os participantes terão a oportunidade de desenvolver um jogo simples de forma guiada. 
+
+### 📌 Objetivo do Workshop
+Os participantes devem completar a implementação do jogo da Pytn, seguindo as **dicas** disponíveis no próprio ficheiro. O objetivo é aprender os conceitos fundamentais de Python, como loops, condições e manipulação de strings.
+
+📑 **Apresentação do Workshop:** [Ver slides](https://docs.google.com/presentation/d/1b9S11zSEmNRaOdVH2NLjMfokfUqud2F9bJ82U9lEIq4/edit?usp=sharing)
+
 ## 📜 Licença
 Este projeto está sob a licença **MIT**. Sente-te à vontade para modificar e partilhar!
 
@@ -47,4 +56,3 @@ Este projeto está sob a licença **MIT**. Sente-te à vontade para modificar e 
 Se tiveres sugestões ou melhorias, abre um **Pull Request** ou entra em contacto!
 
 🐍 Divirtam-se a aprender Python com o **Pytn**! 🚀
-
