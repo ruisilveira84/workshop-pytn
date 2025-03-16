@@ -26,7 +26,7 @@ def desenhar_tabuleiro():
         print(linha)
     print("\n")  # Linha em branco para espaçamento
 
-print("🐍 Bem-vindo ao jogo da Pytn! Usa 'w' (cima), 's' (baixo), 'a' (esquerda) e 'd' (direita) para mover.")
+print("🐍 Bem-vindo ao jogo da Pytn! \nUsa 'w' (cima), 's' (baixo), 'a' (esquerda) e 'd' (direita) para mover.")
 
 while True:
     # Mostrar o tabuleiro

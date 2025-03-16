@@ -12,11 +12,11 @@ Este repositório contém dois jogos simples da cobrinha escritos em Python:
 1. Certifica-te de que tens **Python 3** instalado.
 2. Faz o download do repositório ou clona-o com:
    ```bash
-   git clone https://github.com/teu-usuario/workshop-pytn.git
+   git clone https://github.com/ruisilveira84/workshop-pytn.git
    ```
 3. Navega até à pasta do projeto:
    ```bash
-   cd workshop-pytn
+   cd workshop-pytn/src/
    ```
 4. Corre um dos jogos:
    ```bash
@@ -47,7 +47,7 @@ Este ficheiro foi criado para ser utilizado no **workshop de Python**, onde os p
 ### 📌 Objetivo do Workshop
 Os participantes devem completar a implementação do jogo da Pytn, seguindo as **dicas** disponíveis no próprio ficheiro. O objetivo é aprender os conceitos fundamentais de Python, como loops, condições e manipulação de strings.
 
-📑 **Apresentação do Workshop:** [Ver slides](https://docs.google.com/presentation/d/1b9S11zSEmNRaOdVH2NLjMfokfUqud2F9bJ82U9lEIq4/edit?usp=sharing)
+📑 **Apresentação do Workshop:** [Ver slides](docs/slides.pdf)
 
 ## 📜 Licença
 Este projeto está sob a licença **MIT**. Sente-te à vontade para modificar e partilhar!
